@@ -14,7 +14,11 @@ I am an Information Technology student with a strong focus on Embedded Systems a
 - **IoT & App:** ThingsBoard, Android Studio.
 
 ### 📈 GitHub Stats
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinhQV&show_icons=true&theme=radium)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinhQV&show_icons=true&theme=dracula" alt="VinhQV's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinhQV&theme=dracula" alt="VinhQV's Streak" />
+</p>
 
 ### 📫 How to reach me
 - **LinkedIn:** [https://www.linkedin.com/in/voquangvinh-ptit/]
